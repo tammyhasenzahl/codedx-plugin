@@ -1,4 +1,4 @@
-## Code Dx Jenkins Plugin 3.1.0
+## Code Dx Jenkins Plugin 3.1.0 `Released 1/27/2023`
 
 ### Changes
 - Added support for specifying a target branch in Code Dx when analyzing results
